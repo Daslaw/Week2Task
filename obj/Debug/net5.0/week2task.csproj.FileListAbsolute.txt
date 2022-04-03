@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.AssemblyInfo.cs
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WellaProject\week2task\bin\Debug\net5.0\week2task.exe
+C:\Users\User\Desktop\WellaProject\week2task\bin\Debug\net5.0\week2task.deps.json
+C:\Users\User\Desktop\WellaProject\week2task\bin\Debug\net5.0\week2task.runtimeconfig.json
+C:\Users\User\Desktop\WellaProject\week2task\bin\Debug\net5.0\week2task.runtimeconfig.dev.json
+C:\Users\User\Desktop\WellaProject\week2task\bin\Debug\net5.0\week2task.dll
+C:\Users\User\Desktop\WellaProject\week2task\bin\Debug\net5.0\ref\week2task.dll
+C:\Users\User\Desktop\WellaProject\week2task\bin\Debug\net5.0\week2task.pdb
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.dll
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\ref\week2task.dll
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.pdb
+C:\Users\User\Desktop\WellaProject\week2task\obj\Debug\net5.0\week2task.genruntimeconfig.cache
